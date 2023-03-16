@@ -1,0 +1,109 @@
+.firstshapeinside1 {
+    width: 150px;
+    height: 150px;
+    background-color: #003d1c;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .firstshapeinside2 {
+    width: 150px;
+    height: 150px;
+    border-radius: 0 0 0 90%;
+    background-color: #56c288;
+    display: inline-block;
+  }
+  
+  div {
+    display: inline-block;
+  }
+  .secondshape1{
+      width: 150px;
+      height: 150px;
+      background-color: #6875ec;
+      border-radius: 10%;
+      margin-top: -10px;
+      
+  }
+  
+  .secondshape2{
+      width: 150px;
+    height: 150px;
+    border-radius: 50%;
+      background-color:#ccd1d7;
+      margin-top: -60px;
+   
+  }
+  
+  .triangle{
+      border: 40px solid transparent; border-left: 40px solid white;
+      margin-left: 40px;
+      margin-top: -10px;
+      display: inline-block;
+  }
+  .rectangle{
+      width: 200px;
+    height: 100px;
+    background-color: #ff0101;
+    border-radius: 20%;
+    padding-left: 100px;
+    margin-left: 150px;
+    padding-top: 50px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    display: inline-block;
+    
+  }
+
+    .shape{
+      height: 100px;
+      width: 100px;
+      display: inline-block;
+  }
+  .shape2{
+      height: 100px;
+      width: 100px;
+      display: inline-block;
+  }
+  
+    .left{
+      background-color: #f6b800;
+      border-radius: 100px 100px 10px 10px;
+      height: 60px;
+      margin-left: 900px; 
+      
+    }
+  
+    .up{
+      width: 60px;
+      background-color: #e64132;
+      border-radius: 10px 100px 100px 10px;
+      margin-left: 1005px;
+     margin-top: -100px;
+     margin-bottom: 32px;
+    }
+    .down{
+      width: 60px;
+      background-color: #31a452;
+      border-radius: 100px 10px 10px 100px;
+      margin-bottom: -50px;
+      margin-left: 930px;
+      margin-right: -200px;
+      margin-top: -700px;
+      
+      
+      
+    }
+  .right{
+      background-color: #4081ef;
+      border-radius: 10px 10px 100px 100px;
+      height: 60px;
+      margin-left: 995px;
+      margin-top: -700px;
+      margin-bottom: 7px;
+  
+  
+  }
+  .marginn{
+    margin-top: -800px;
+   
+  }
